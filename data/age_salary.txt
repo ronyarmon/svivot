@@ -1,3 +1,0 @@
-ben,johnson,23,1500
-shira,cohen,25,1700
-mike,sander,46,2400
